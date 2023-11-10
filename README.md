@@ -1,4 +1,7 @@
 # url_shortcut
+
+![github actions](https://github.com/AlexeyEsipov/url_shortcut/actions/workflows/maven.yml/badge.svg)
+
 Это приложение для обеспечения безопасности пользователей, все ссылки на сайте заменяются ссылками на наш сервис.
 
 [//]: # (## Техническое задание на проект содержит такие требования:)
